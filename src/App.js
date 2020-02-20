@@ -1,11 +1,12 @@
 import React from 'react';
-// import ThreeJSFirst from './ThreeJsFirst'
 import ThreeJSFirst from './threeJSFirst'
+import ThreeJSSecond from './threeJSSecond'
 
 
 function App() {
   return (
     <div>
+      {/* <img style={{position: 'absolute', zIndex: -10000}} src={'https://images2.alphacoders.com/564/564835.jpg'} /> */}
       <ThreeJSFirst />
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
