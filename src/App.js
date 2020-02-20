@@ -6,6 +6,7 @@ import ThreeJSFourth from './threeJSFourth'
 import ThreeJSFifth from './threeJSFifth'
 import ThreeJSSixth from './threeJSSixth'
 import ThreeJSSeventh from './threeJSSeventh'
+import ThreeJSEighth from './threeJSEighth'
 
 function App() {
   return (
@@ -15,7 +16,9 @@ function App() {
       {/* <ThreeJSThird /> */}
       {/* <ThreeJSFourth /> */}
       {/* <ThreeJSFifth /> */}
-      <ThreeJSSixth />
+      {/* <ThreeJSSixth /> */}
+      {/* <ThreeJSSeventh /> */}
+      <ThreeJSEighth />
     </div>
   );
 }
