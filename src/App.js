@@ -7,6 +7,10 @@ import ThreeJSFifth from './threeJSFifth'
 import ThreeJSSixth from './threeJSSixth'
 import ThreeJSSeventh from './threeJSSeventh'
 import ThreeJSEighth from './threeJSEighth'
+import ThreeJS1 from './threeJS1'
+import Chapter46 from './Section8/chapter46Texture'
+import Chapter48Panorama from './Section8/chapter48Panorama'
+import Chapter49CastShadow from './Section8/chapter49CastShadow'
 
 function App() {
   return (
@@ -18,7 +22,11 @@ function App() {
       {/* <ThreeJSFifth /> */}
       {/* <ThreeJSSixth /> */}
       {/* <ThreeJSSeventh /> */}
-      <ThreeJSEighth />
+      {/* <ThreeJSEighth /> */}
+      {/* <ThreeJS1 /> */}
+      {/* <Chapter46 /> */}
+      {/* <Chapter48Panorama /> */}
+      <Chapter49CastShadow />
     </div>
   );
 }
