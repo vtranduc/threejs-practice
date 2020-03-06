@@ -11,6 +11,7 @@ import ThreeJS1 from './threeJS1'
 import Chapter46 from './Section8/chapter46Texture'
 import Chapter48Panorama from './Section8/chapter48Panorama'
 import Chapter49CastShadow from './Section8/chapter49CastShadow'
+import OrbitControl1 from './OrbitControl/orbitControl1'
 
 function App() {
   return (
@@ -26,7 +27,8 @@ function App() {
       {/* <ThreeJS1 /> */}
       {/* <Chapter46 /> */}
       {/* <Chapter48Panorama /> */}
-      <Chapter49CastShadow />
+      {/* <Chapter49CastShadow /> */}
+      <OrbitControl1 />
     </div>
   );
 }
